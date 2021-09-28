@@ -1,5 +1,5 @@
 # Swyng
-## Members
+<!-- Members -->
 Haadis Rahman, Raleigh Dial, Charan Ramachandran
 ## Problem Definition
 eLC is not good.
