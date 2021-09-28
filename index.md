@@ -1,6 +1,18 @@
-## Swyng
+# Swyng
 ## Members
 Haadis Rahman, Raleigh Dial, Charan Ramachandran
+## Problem Definition
+eLC is not good.
+### Potential Users
+Potential users.
+## Existing Solutions
+### Solution 1
+An existing solution we find.
+### Solution 2
+Another existing solution we find.
+## Proposed Solution
+Our solution goes here.
+### Measurement of Success
 
 <!-- ## Welcome to GitHub Pages
 
