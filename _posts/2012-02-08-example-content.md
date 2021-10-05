@@ -5,7 +5,9 @@ title: Introducing Swyng
 
 Haadis Rahman, Raleigh Dial, Charan Ramachandran
 
-* [Milestone 1](https://mediocrecode.github.io/4800TermProject/milestone2.html)
+
+### Milestones
+* [Milestone 2](/milestone2)
 
 ### Problem Definition
 As a university student, there are too many external systems managed by the university/departments/instructors for classes that all fall under the same institution. We want to investigate where this frustration stems from for students and why instructors have chosen to use many differing systems. This is especially prevalent in a time in which both students and instructors return to face-to-face instruction, as previous online material and course-work is integrated back into the normal classroom setting.  
