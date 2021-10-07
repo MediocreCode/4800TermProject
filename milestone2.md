@@ -27,6 +27,7 @@ We would like to propose ...
 
 ### Sources:
 [eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
+[TopHat knowledge base for both students and professors](https://success.tophat.com/s/categoryhome/Professor)
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
