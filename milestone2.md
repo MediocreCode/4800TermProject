@@ -19,7 +19,7 @@ For our system we have a total of 3 potential users.
 ### Analysis of Existing Solutions
 There are no real existing solutions to our problem as all the platforms that exists which instructors and students can make use of are actually a part of the issue we are aiming to fix. Based on our experience, the closest thing to an existing solution would be eLC as it offers a wide (but not comprehensive enough) variety of services such as grades, exams, and discussions. However, based on our experience, it lacks certain core features such as randomized discussions, more variable exam formats (like WebAssign), and in-class participation features (TopHat).
 
-### Principles and Guidelines for Existing Solutions
+#### Principles and Guidelines for Existing Solutions
 The main guideline that all these services adhere to, lies under the fact that they are all secure to a degree, which prevents students from gaining administrative access. Obviously, this is benificial to school faculty who do not want students poking around where they are not supposed to. This helps the faculty maintain control and release information when they see fit. Keeping the users in control is a key principle of good design and is certianly maintained across these many systems that help distribute information. These systems also do well at reducing short-term memory load for the student users as they have clearly defined sections for homework, quizzes, and exams. The main problem with this principle comes into is when a student user has to take into acount many of this different systems and overload their short term memory.
 
 ### Sources:
