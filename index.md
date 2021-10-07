@@ -3,7 +3,12 @@ layout: post
 title: Introducing Swyng
 ---
 
-Haadis Rahman, Raleigh Dial, Charan Ramachandran
+Haadis Rahman<br/>
+Raleigh Dial<br/>
+Charan Ramachandran
+
+###Summary
+Swyng is looking into the effect that using many external systems for assignments and testing has on both a University's students and it's faculty. We beleive that this habit of having too many ways of sending and recieving information can lead to many user errors from all parties. At Swyng we are trying to identify the core problems that come from this trend and discover solutions to get around them.
 
 ### Milestones
 [Milestone 1](https://piazza.com/class/ksi37ehzufj56t?cid=18)
