@@ -7,6 +7,7 @@ Haadis Rahman, Raleigh Dial, Charan Ramachandran
 
 ### Milestones
 [Milestone 1](https://piazza.com/class/ksi37ehzufj56t?cid=18)
+<br/>
 [Milestone 2](./milestone2)
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
