@@ -26,9 +26,12 @@ The main guideline that all these services adhere to, lies under the fact that t
 We would like to propose ...
 
 ### Sources:
-[eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/) <br/>
-[TopHat knowledge base for both students and professors](https://success.tophat.com/s/categoryhome/Professor) <br/>
-[WebAssign student features](https://webassign.com/students/features/) <br/>
+[eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
+<br/>
+[TopHat knowledge base for both students and professors](https://success.tophat.com/s/categoryhome/Professor)
+<br/>
+[WebAssign student features](https://webassign.com/students/features/)
+<br/>
 [WebAssign instructor features](https://webassign.com/instructors/features/)
 
 
