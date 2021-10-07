@@ -28,7 +28,8 @@ We would like to propose ...
 ### Sources:
 [eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
 [TopHat knowledge base for both students and professors](https://success.tophat.com/s/categoryhome/Professor)
-
+[WebAssign student features](https://webassign.com/students/features/)
+[WebAssign instructor features](https://webassign.com/instructors/features/)
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
