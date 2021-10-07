@@ -7,13 +7,13 @@ Haadis Rahman<br/>
 Raleigh Dial<br/>
 Charan Ramachandran
 
-![Haadis](./images/haadis.png){:class="img-responsive"}
-![Raleigh](./images/raleigh.png){:class="img-responsive"}
-![Charan](./images/charan.png){:class="img-responsive"}
+<img src="images/haadis.png"/>
+<img src="images/raleigh.png"/>
+<img src="images/charan.png"/>
 
 
 ### Summary
-Swyng has been looking into the effects that using many external systems for assignments and testing has on both a University's students and it's faculty. We beleive that this habit of having too many ways of sending and recieving information can lead to many user errors from all parties. At Swyng we want to offer an alternative that brings together all the benifits that these different systems have in order to unite them under one system that solves the problem of overloading students and helps faculty be satisfied enough to not need to branch out to other systems like they have had to in the past. 
+Swyng has been looking into the effects that using many external systems for assignments and testing has on both a University's students and it's faculty. We beleive that this habit of having too many ways of sending and recieving information can lead to many user errors from all parties. At Swyng we want to offer an alternative that brings together all the benifits that these different systems have in order to unite them under one system that solves the problem of overloading students and helps faculty be satisfied enough to not need to branch out to other systems like they have had to in the past.
 
 ### Milestones
 [Milestone 1](https://piazza.com/class/ksi37ehzufj56t?cid=18)
