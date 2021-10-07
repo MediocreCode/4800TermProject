@@ -16,13 +16,13 @@ title: Introducing Swyng
 </div>
 
 <div class="row">
-<div class="col">
+<div class="colName">
 Haadis Rahman
 </div>
-<div class="col">
+<div class="colName">
 Raleigh Dial
 </div>
-<div class="col">
+<div class="colName">
 Charan Ramachandran
 </div>
 </div>
@@ -36,6 +36,12 @@ Charan Ramachandran
 
 .col {
   float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.colName {
+  float: center;
   width: 33.33%;
   padding: 5px;
 }
