@@ -3,7 +3,9 @@ layout: post
 title: Milestone 2
 ---
 
-Haadis Rahman, Raleigh Dial, Charan Ramachandran
+Haadis Rahman<br/>
+Raleigh Dial<br/>
+Charan Ramachandran
 
 ### Problem Definition
 As a university student, there are too many external systems managed by the university/departments/instructors for classes that all fall under the same institution. We want to investigate where this frustration stems from for students and why instructors have chosen to use many differing systems. This is especially prevalent in a time in which both students and instructors return to face-to-face instruction, as previous online material and course-work is integrated back into the normal classroom setting.  
@@ -20,10 +22,13 @@ For our system we have a total of 3 potential users.
 There are no real existing solutions to our problem as all the platforms that exists which instructors and students can make use of are actually a part of the issue we are aiming to fix. Based on our experience, the closest thing to an existing solution would be eLC as it offers a wide (but not comprehensive enough) variety of services such as grades, exams, and discussions. However, based on our experience, it lacks certain core features such as randomized discussions, more variable exam formats (like WebAssign), and in-class participation features (TopHat).
 
 #### Principles and Guidelines for Existing Solutions
-The main guideline that all these services adhere to, lies under the fact that they are all secure to a degree, which prevents students from gaining administrative access. Obviously, this is benificial to school faculty who do not want students poking around where they are not supposed to. This helps the faculty maintain control and release information when they see fit. Keeping the users in control is a key principle of good design and is certianly maintained across these many systems that help distribute information. These systems also do well at reducing short-term memory load for the student users as they have clearly defined sections for homework, quizzes, and exams. The main problem with this principle comes into is when a student user has to take into acount many of this different systems and overload their short term memory.
+The main guideline that all these services adhere to, lies under the fact that they are all secure to a degree, which prevents students from gaining administrative access. Obviously, this is benificial to school faculty who do not want students poking around where they are not supposed to. This helps the faculty maintain control and release information when they see fit. Keeping the users in control is a key principle of good design and is certianly maintained across these many systems that help distribute information. These systems also do well at reducing short-term memory load for the student users as they have clearly defined sections for homework, quizzes, and exams. The main problem with this principle comes into is when a student user has to take into account many of this different systems and overload their short term memory.
 
 ### Our Solutions
-We would like to propose ...
+We would like to propose an external system that can incorporate these already existing solutions which are used for their unique benefits (elC, TopHat, WebAssign, etc.) and take the best properties of each system for an overarching "Umbrella" system. This system would allow student users to have a single hub where they can access course information and assignment deadlines without having to encounter the problem of overloading their short-term memory. The benefits of this system for instructors is that they will still be able to pick and choose from the already existing solutions that they have come to know so they would not have to go through the difficulties of relearning a new system. An added benefit is that having all assignments and grades in one place will allow for less user error on the students side of confusion when deadlines occur, thus enabling instructors to focus on the details of their lesson plans.
+
+#### Measuring Success
+We would measure success by comparing the number of missed assignments, grades, and classroom engagement from prior to using Swyng and afterward. We would collect feedback from students on the overall usability of our platform and insight from instructors on the number of communications received from students regarding assignment deadlines and confusion. If we are able to determine a significant decrease in missed assignments and student frustration, we would be able to say that our design was successful.
 
 ### Sources:
 * [eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
