@@ -22,6 +22,9 @@ There are no real existing solutions to our problem as all the platforms that ex
 ### Principles and Guidelines for Existing Solutions
 The main guideline that all these services adhere to, lies under the fact that they are all secure to a degree, which prevents students from gaining administrative access. Obviously, this is benificial to school faculty who do not want students poking around where they are not supposed to. This helps the faculty maintain control and release information when they see fit. Keeping the users in control is a key principle of good design and is certianly maintained across these many systems that help distribute information. These systems also do well at reducing short-term memory load for the student users as they have clearly defined sections for homework, quizzes, and exams. The main problem with this principle comes into is when a student user has to take into acount many of this different systems and overload their short term memory.
 
+### Sources:
+[eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
+
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
