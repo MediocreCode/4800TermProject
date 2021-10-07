@@ -40,12 +40,6 @@ Charan Ramachandran
   padding: 5px;
 }
 
-.colName {
-  float: center;
-  width: 33.33%;
-  padding: 5px;
-}
-
 </style>
 
 ### Summary
