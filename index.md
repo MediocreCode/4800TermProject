@@ -16,13 +16,13 @@ title: Introducing Swyng
 </div>
 
 <div class="row">
-<div class="colName">
+<div class="col">
 Haadis Rahman
 </div>
-<div class="colName">
+<div class="col">
 Raleigh Dial
 </div>
-<div class="colName">
+<div class="col">
 Charan Ramachandran
 </div>
 </div>
