@@ -7,10 +7,10 @@ Haadis Rahman<br/>
 Raleigh Dial<br/>
 Charan Ramachandran
 
-<div class="pics" style="display: inline-block;">
-<img src="images/haadis.png" style="width: 250px; height: 250px;"/>
-<img src="images/raleigh.png" style="width: 250px; height: 250px;"/>
-<img src="images/charan.png" style="width: 250px; height: 250px;"/>
+<div class="pics">
+<img src="images/haadis.png" style="width: 250px; height: 250px; display inline-block;"/>
+<img src="images/raleigh.png" style="width: 250px; height: 250px; display inline-block;"/>
+<img src="images/charan.png" style="width: 250px; height: 250px; display inline-block;"/>
 </div>
 
 ### Summary
