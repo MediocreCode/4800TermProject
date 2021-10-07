@@ -1,7 +1,6 @@
-<<<<<<< HEAD:_posts/2012-02-08-example-content.md
 ---
 layout: post
-title: Introducing Swyng
+title: Milestone 2
 ---
 
 Haadis Rahman, Raleigh Dial, Charan Ramachandran
@@ -50,7 +49,7 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
-Thanks! -->
+Thanks!
 =======
 ---
 layout: page
@@ -74,4 +73,4 @@ There are no real existing solutions to our problem as all the platforms that ex
 ### Principles and Guidelines for Existing Solutions
 The main guideline that all these services adhere to, lies under the fact that they are all secure to a degree, which prevents students from gaining administrative access.
 
->>>>>>> 886f7b1036c0ef918ea800097955dcf3694334f0:milestone2.md
+>>>>>>> 886f7b1036c0ef918ea800097955dcf3694334f0:milestone2.md -->
