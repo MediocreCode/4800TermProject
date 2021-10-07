@@ -3,10 +3,6 @@ layout: post
 title: Introducing Swyng
 ---
 
-Haadis Rahman<br/>
-Raleigh Dial<br/>
-Charan Ramachandran
-
 <div class="row">
 <div class="col">
 <img src="images/haadis.png"/>
@@ -16,6 +12,18 @@ Charan Ramachandran
 </div>
 <div class="col">
 <img src="images/charan.png"/>
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+Haadis Rahman
+</div>
+<div class="col">
+Raleigh Dial
+</div>
+<div class="col">
+Charan Ramachandran
 </div>
 </div>
 
