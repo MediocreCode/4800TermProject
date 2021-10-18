@@ -19,6 +19,10 @@ Charan Ramachandran
 * As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.
 * As an instructor I would like to be able to view my student’s work submissions.
 
+### Relievance
+We firmly beleive that the first five User Stories are the most relevant for our solution. The first three are the essiantials for development of our platform as well as our motivation for creating this system, while the forth storie is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. However, number five is essiantial and easy to be wireframed.
+
+
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
