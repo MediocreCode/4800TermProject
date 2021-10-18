@@ -20,7 +20,7 @@ Charan Ramachandran
 * As an instructor I would like to be able to view my student’s work submissions.
 
 ### Relievance
-We firmly beleive that the first five User Stories are the most relevant for our solution. The first three are the essiantials for development of our platform as well as our motivation for creating this system, while the forth storie is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. However, number five is essiantial and easy to be wireframed.
+We firmly beleive that the first five User Stories are the most relevant for our solution. The first three are the essiantials for development of our platform as well as our motivation for creating this system. That becomes very appereant by reading Our Solution page on [Milestone 2.](./milestone2) The forth story is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. However, number five is essiantial and easy to be wireframed.
 
 
 
