@@ -19,8 +19,8 @@ Charan Ramachandran
 * As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.
 * As an instructor I would like to be able to view my student’s work submissions.
 
-### Relievance
-We firmly beleive that the first five User Stories are the most relevant for our solution. The first three are the essiantials for development of our platform as well as our motivation for creating this system. That becomes very appereant by reading Our Solution page on [Milestone 2.](./milestone2) The forth story is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. This doesn't mean it won't be represented in our wireframing as I beleive it will become clear from seeing how our UI is designed to be assecable. However, number five is more praticle instead of conceptual, which makes it easy to be wireframed, but it is still required for our system.
+### Relevance
+We firmly believe that the first five User Stories are the most relevant for our solution. The first three are the essentials for development of our platform as well as our motivation for creating this system. That becomes very apparent by reading Our Solution page on [Milestone 2.](./milestone2) The forth story is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. This doesn't mean it won't be represented in our wireframing as I believe it will become clear from seeing how our UI is designed to be accessible. However, number five is more practical instead of conceptual, which makes it easy to be wireframed, but it is still required for our system.
 
 
 
