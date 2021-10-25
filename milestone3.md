@@ -7,7 +7,8 @@ Haadis Rahman<br/>
 Raleigh Dial<br/>
 Charan Ramachandran
 
-### User Stories
+### User Experience Requirements
+#### User Stories
 * As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.
 * As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.
 * As an institution I would like a service which is applicable to my organizational needs (education), while being reliable and affordable.
@@ -19,10 +20,12 @@ Charan Ramachandran
 * As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.
 * As an instructor I would like to be able to view my student’s work submissions.
 
-### Relevance
+#### Relevance
 We firmly believe that the first five User Stories are the most relevant for our solution. The first three are the essentials for development of our platform as well as our motivation for creating this system. That becomes very apparent by reading Our Solution page on [Milestone 2.](./milestone2) The forth story is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. This doesn't mean it won't be represented in our wireframing as I believe it will become clear from seeing how our UI is designed to be accessible. However, number five is more practical instead of conceptual, which makes it easy to be wireframed, but it is still required for our system.
 
-
+### Ideation and Preliminary Designs
+#### Idea Generation
+We used Figma to brainstorm different practical ideas that we could implement for our system. You can see our session [here.](https://www.figma.com/file/5Gcm3kk0GAqFyUAxTM5ifP/4800IdeaGeneration) The ideas that are in bold and marked with a stamp are designs that we feel will help push us closer to realizing our goals set out in how we manage success.
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
