@@ -25,7 +25,7 @@ We firmly believe that the first five User Stories are the most relevant for our
 
 ### Ideation and Preliminary Designs
 #### Idea Generation
-We used Figma to brainstorm different practical ideas that we could implement for our system. You can see our session [here.](https://www.figma.com/file/5Gcm3kk0GAqFyUAxTM5ifP/4800IdeaGeneration) The ideas that are in bold and marked with a stamp are designs that we feel will help push us closer to realizing our goals set out in how we manage success.
+We used Figma to brainstorm different practical ideas that we could implement for our system. You can see our session [here.](https://www.figma.com/file/5Gcm3kk0GAqFyUAxTM5ifP/4800IdeaGeneration) The ideas that are in bold and marked with a stamp are designs that we feel will help push us closer to realizing our goals set out in how we measure success.
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
