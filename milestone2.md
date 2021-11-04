@@ -30,6 +30,9 @@ We would like to propose an external system that can incorporate these already e
 #### Measuring Success
 We would measure success by comparing the number of missed assignments, grades, and classroom engagement from prior to using Swyng and after the student uses our system. We would collect feedback from students on the overall usability of our platform and insight from instructors on the number of communications received from students regarding assignment deadlines and confusion. If we are able to determine a significant decrease in missed assignments and student frustration, we would be able to say that our design was successful.
 
+#### Video
+[Summary Video]( https://youtu.be/n27xhcF-Q6g)
+
 ### Sources:
 * [eLC tutorial to help students navigate](https://help.elc.uga.edu/for_students/)
 <br/>
