@@ -9,15 +9,15 @@ Charan Ramachandran
 
 ### User Experience Requirements
 #### User Stories
-* As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.
-* As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.
+* <b>As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.</b>
+* <b>As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.</b>
 * As an institution I would like a service which is applicable to my organizational needs (education), while being reliable and affordable.
 * As an instructor, I would like to not have to learn new platforms, so that I may continue using my existing knowledge on platforms such as Piazza, WebAssign, etc.
-* As a student, I want to be able to view all my grades in one platform, so that I can keep track of my academics without having to access numerous platforms for each class.
+* <b>As a student, I want to be able to view all my grades in one platform, so that I can keep track of my academics without having to access numerous platforms for each class.</b>
 * As a student, I want to be able to interact with other students using a platform that helps interaction happen in an easy and simplistic way.
 * As a student, I need to be able to complete any assignments (tests & quizzes) with minimal errors and issues.
 * As an instructor, I would like to be able to easily and randomly assign students for peer review assignments.
-* As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.
+* <b>As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.</b>
 * As an instructor I would like to be able to view my student’s work submissions.
 
 #### Relevance
