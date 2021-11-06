@@ -29,7 +29,7 @@ We used Figma to brainstorm different practical ideas that we could implement fo
 
 ### Wireframes
 
-[Class page wireframes](https://www.figma.com/file/uNaLlEvonXYmmdUGyU4q94/Milestone-3-WireFrame?node-id=0%3A1)
+[Class page wireframes](https://www.figma.com/file/uNaLlEvonXYmmdUGyU4q94/Milestone-3-WireFrame?node-id=0%3A1)<br>
 [Class page mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)
 
 
