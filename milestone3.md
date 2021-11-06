@@ -27,7 +27,10 @@ We firmly believe that the first five User Stories are the most relevant for our
 #### Idea Generation
 We used Figma to brainstorm different practical ideas that we could implement for our system. You can see our session [here.](https://www.figma.com/file/5Gcm3kk0GAqFyUAxTM5ifP/4800IdeaGeneration) The ideas that are in bold and marked with a stamp are designs that we feel will help push us closer to realizing our goals set out in how we measure success.
 
+### Wireframes
 
+[Class page wireframes](https://www.figma.com/file/uNaLlEvonXYmmdUGyU4q94/Milestone-3-WireFrame?node-id=0%3A1)
+[Class page mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
