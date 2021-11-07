@@ -63,6 +63,9 @@ The presenter acts as a blank slate for any selected item to be cast. We felt th
 [Calendar Mockup](https://www.figma.com/file/rM3RDyQGQMvpVLC31dXF4U/Milestone-3-MOCK-UP-CALENDAR?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrM3RDyQGQMvpVLC31dXF4U%2FMilestone-3-MOCK-UP-CALENDAR%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 #### Calendar Justification
+For the approaching due dates, we chose to include this in the side bar on the homepage. The sidebar will be sticky, meaning when the student scrolls down, the sidebar will remain the same. This way, no matter what part of the homepage the student is looking at, their due dates will be readily available. For close deadlines, the due date will be bolded and in red to bring attention to it. Students may configure the time range they would like to have the bolded and colored due dates.
+
+The calendar page shows the calendar in the main area, but also a list of classes in the right side bar. This way, students can easily navigate to any class from the calendar page without having to go back into the homepage. 
 
 [Grades Mockup](https://www.figma.com/file/jSX0XajZtHL7KmNyjq4ynM/Gradebook%2FCalc-Mockup?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjSX0XajZtHL7KmNyjq4ynM%2FGradebook%252FCalc-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
