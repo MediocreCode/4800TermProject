@@ -32,6 +32,8 @@ We used Figma to brainstorm different practical ideas that we could implement fo
 [Class page wireframes](https://www.figma.com/file/uNaLlEvonXYmmdUGyU4q94/Milestone-3-WireFrame?node-id=0%3A1)<br>
 [Class page mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)
 
+[Calendar wireframe](https://www.figma.com/file/AbUwGVJuLrQBOrNWPv31em/Milestone-3-WIREFRAME-CALENDAR?node-id=0%3A1)
+[Calendar mockup](https://www.figma.com/file/rM3RDyQGQMvpVLC31dXF4U/Milestone-3-MOCK-UP-CALENDAR?node-id=0%3A1)
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
