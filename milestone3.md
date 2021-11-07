@@ -65,15 +65,19 @@ The presenter acts as a blank slate for any selected item to be cast. We felt th
 #### Calendar Justification
 For the approaching due dates, we chose to include this in the side bar on the homepage. The sidebar will be sticky, meaning when the student scrolls down, the sidebar will remain the same. This way, no matter what part of the homepage the student is looking at, their due dates will be readily available. For close deadlines, the due date will be bolded and in red to bring attention to it. Students may configure the time range they would like to have the bolded and colored due dates.
 
-The calendar page shows the calendar in the main area, but also a list of classes in the right side bar. This way, students can easily navigate to any class from the calendar page without having to go back into the homepage. 
+The calendar page shows the calendar in the main area, but also a list of classes in the right side bar. This way, students can easily navigate to any class from the calendar page without having to go back into the homepage.
 
 [Grades Mockup](https://www.figma.com/file/jSX0XajZtHL7KmNyjq4ynM/Gradebook%2FCalc-Mockup?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjSX0XajZtHL7KmNyjq4ynM%2FGradebook%252FCalc-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 #### Grade Justification
+For our gradepage, we decided to go with a traditional downwards growthing gradebook style template. We found that this type of layout would be the most comfortable for students and instructors to use as it is a familiar layout which students and instructors would have seen in the past. Such a simple and easy to read layout reduces the amount of confusion students and instructors may potentially face. The gradebook contains multiple sections which in larger text name the category of assignment each grade is for. The individual names of each assignment is on the left, and the grades are on the right. This allowed us to create a gradebook that is systematically organized and easy to read.
+
+On the right hand side of the grades page, we have our grade calculator. It made sense to us to place this on the right hand side as students can easily reference their grades and simply enter them into the calculator without having to navigate back and forth through multiple pages.We found this type of calculator which requires manual inputs to be the best design for students as it allows students controllability. This is an important feature in a grade calculator as it allows students to put in “what-if” grades in order to gain a better understanding of their standing in the course. Such a feature can help with predicting possible grade outcomes throughout the semester as well. By having the calculator right next to the gradebook on the same page, we minimize the amount of effort needed as students do not have to flip back and forth between the gradebook and the calculator to input in grades.
 
 [Instructor Linking Mockup](https://www.figma.com/file/3S2svLDd9cNb3xvzTej6kU/Instructor-Linking-Mockup?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3S2svLDd9cNb3xvzTej6kU%2FInstructor-Linking-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 #### Instructor Linking Justification
+
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
