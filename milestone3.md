@@ -21,7 +21,8 @@ Charan Ramachandran
 * As an instructor I would like to be able to view my student’s work submissions.
 
 #### Relevance
-We firmly believe that the first five User Stories are the most relevant for our solution. The first three are the essentials for development of our platform as well as our motivation for creating this system. That becomes very apparent by reading Our Solution page on [Milestone 2.](./milestone2) The forth story is still relevant for our platform it is more conceptual and can't be displayed through wireframing easily. This doesn't mean it won't be represented in our wireframing as I believe it will become clear from seeing how our UI is designed to be accessible. However, number five is more practical instead of conceptual, which makes it easy to be wireframed, but it is still required for our system.
+We firmly believe that the bolded user stories are the most relevant to our solution. The first user story is relevant as the idea of students being able to have a single platform where they can access school material is the primary inspiration for our solution. As students, the clutter of platforms which make up our current instructional media, is a logistical mess as students are forced to juggle multiple services. In addition to this, the second user story goes hand-in-hand to our first as students who come from a system which does not implement online educational platforms or implement drastically different ones may struggle with finding where and when assignments are due. Freshmen especially, who are unfamiliar with the layouts of platforms such as eLC, and WebAssign often struggle to remember and find upcoming assignments. With an idea of upcoming assignments clearly displayed, we plan to incorporate this idea into our wireframes. Next, we found the fifth user story to be of one with relevance as it is a practical feature of our very first user story. Students should be able to view all of their grades in a singular platform without the need to switch between services in order to ensure that each student knows how they are doing in their classes. When all grades are present in the same space, it can become easy and convenient to quickly swipe through them in order to get an idea of academic standing for the semester, as opposed to individually having to visit different spaces for each class. The final user story we found to be relevant is the ninth one as instructors should be able to easily deliver assignments and instruction material with little to no hassle. We recognize that the instructor experience is just as important as the experience of the students and thus we found this user story to be just as equally important. 
+
 
 ### Ideation and Preliminary Designs
 #### Idea Generation
@@ -32,7 +33,7 @@ We used Figma to brainstorm different practical ideas that we could implement fo
 [Class page wireframes](https://www.figma.com/file/uNaLlEvonXYmmdUGyU4q94/Milestone-3-WireFrame?node-id=0%3A1)<br>
 [Class page mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)
 
-[Calendar wireframe](https://www.figma.com/file/AbUwGVJuLrQBOrNWPv31em/Milestone-3-WIREFRAME-CALENDAR?node-id=0%3A1)
+[Calendar wireframe](https://www.figma.com/file/AbUwGVJuLrQBOrNWPv31em/Milestone-3-WIREFRAME-CALENDAR?node-id=0%3A1)<br>
 [Calendar mockup](https://www.figma.com/file/rM3RDyQGQMvpVLC31dXF4U/Milestone-3-MOCK-UP-CALENDAR?node-id=0%3A1)
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
