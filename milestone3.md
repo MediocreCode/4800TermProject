@@ -27,6 +27,7 @@ We firmly believe that the bolded user stories are the most relevant to our solu
 ### Ideation and Preliminary Designs
 #### Idea Generation
 We used Figma to brainstorm different practical ideas that we could implement for our system. You can see our session [here.](https://www.figma.com/file/5Gcm3kk0GAqFyUAxTM5ifP/4800IdeaGeneration) The ideas that are in bold and marked with a stamp are designs that we feel will help push us closer to realizing our goals set out in how we measure success.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5Gcm3kk0GAqFyUAxTM5ifP%2F4800IdeaGeneration%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Wireframes
 
