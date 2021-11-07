@@ -45,7 +45,7 @@ We used Figma to brainstorm different practical ideas that we could implement fo
 
 [Class Page Mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fy03PO0lI9B9GNm6CiqANkA%2FMilestone-3-Class-Page%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-#### Summary of Justifications
+#### Class Page Justification
 We wanted a bold definitive header so that the student always knows what class they are accessing. The sidebar and header work in unison to create the smaller presenter screen where all course and assignment information will be shown.
 
 We chose the sidebar design for its simplicity as it allows the student to traverse all needed information very easily. We wanted opening the dropdown menu in the sidebar to not push everything below it out of sight to be scrolled to, but instead locks the important other dropdown menus at the bottom and creates a smaller scrollable window between the selected information and other accessible information.
@@ -53,19 +53,16 @@ We chose the sidebar design for its simplicity as it allows the student to trave
 The presenter acts as a blank slate for any selected item to be cast. We felt the 1000W by 900H was appropriate sizing to not be too small and make the presenter feel cramped. We also chose to keep the presented information very plain and uncomplicated. We didn't want to overload the user with information as that was one of our design goals in Milestone 2 and synergizes well with completing our user stories.
 
 [Calendar Mockup](https://www.figma.com/file/rM3RDyQGQMvpVLC31dXF4U/Milestone-3-MOCK-UP-CALENDAR?node-id=0%3A1)<br>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrM3RDyQGQMvpVLC31dXF4U%2FMilestone-3-MOCK-UP-CALENDAR%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
-
-#### Summary of Justifications
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrM3RDyQGQMvpVLC31dXF4U%2FMilestone-3-MOCK-UP-CALENDAR%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+#### Calendar Justification
 
 [Grades Mockup](https://www.figma.com/file/jSX0XajZtHL7KmNyjq4ynM/Gradebook%2FCalc-Mockup?node-id=0%3A1)<br>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjSX0XajZtHL7KmNyjq4ynM%2FGradebook%252FCalc-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
-
-#### Summary of Justifications
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjSX0XajZtHL7KmNyjq4ynM%2FGradebook%252FCalc-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+#### Grade Justification
 
 [Instructor Linking Mockup](https://www.figma.com/file/3S2svLDd9cNb3xvzTej6kU/Instructor-Linking-Mockup?node-id=0%3A1)<br>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3S2svLDd9cNb3xvzTej6kU%2FInstructor-Linking-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
-
-#### Summary of Justifications
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3S2svLDd9cNb3xvzTej6kU%2FInstructor-Linking-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+#### Instructor Linking Justification
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
