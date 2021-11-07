@@ -79,6 +79,7 @@ On the right hand side of the grades page, we have our grade calculator. It made
 [Instructor Linking Mockup](https://www.figma.com/file/3S2svLDd9cNb3xvzTej6kU/Instructor-Linking-Mockup?node-id=0%3A1)<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3S2svLDd9cNb3xvzTej6kU%2FInstructor-Linking-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 #### Instructor Linking Justification
+We went with the idea that selecting the link tab would create a pop-up that displays the different compatable options as seen in Frame 1. This also leaves room for Swyng to grow as more options become compatable they can then be added to the pop-up and Swyng would do the rest. The due date would be access the same way as the type through a pop-up calender window. This is needed if the assignment was from a previous semster and needed a new due date. There is an additional option for annoucing the assignment being posted to the class via checkbox. Without checking the assignment would be posted hidden and only visible to the instructor to be announced at a later date. We went with this as there a many instructors out there that don't want to overwhelm students with information and keeping the assignment hidden until relevant.
 
 
 
