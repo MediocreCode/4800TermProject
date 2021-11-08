@@ -81,6 +81,13 @@ On the right hand side of the grades page, we have our grade calculator. It made
 #### Instructor Linking Justification
 We went with the idea that selecting the link tab would create a pop-up that displays the different compatible options as seen in Frame 1. This also leaves room for Swyng to grow as more options become compatible they can then be added to the pop-up and Swyng would do the rest. The due date would be access the same way as the type through a pop-up calendar window. This is needed if the assignment was from a previous semester and needed a new due date. There is an additional option for announcing the assignment being posted to the class via checkbox. Without checking the assignment would be posted hidden and only visible to the instructor to be announced at a later date. We went with this as there a many instructors out there that don't want to overwhelm students with information and keeping the assignment hidden until relevant.
 
+### Sources
+[The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)<br>
+[Design](https://michaelcotterell.com/hci/2021fa/html/03-design/design-index.html)<br>
+[Color Theory](https://michaelcotterell.com/hci/2021fa/html/ddq/2021-10-19-TUE.html)<br>
+[User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)<br>
+
+
 
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
