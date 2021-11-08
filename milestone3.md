@@ -50,7 +50,7 @@ We used Figma to brainstorm different practical ideas that we could implement fo
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOA8cGRzWZtiVxCNywhHMTG%2FGradebook%252FGrade-Calculator-WF%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
 
 [Instructor Linking Wireframe](https://www.figma.com/file/XlqdduULeGMM2dt021DyzD/Instructor-Linking-WF?node-id=0%3A1)
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3S2svLDd9cNb3xvzTej6kU%2FInstructor-Linking-Mockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXlqdduULeGMM2dt021DyzD%2FInstructor-Linking-WF%3Fnode-id%3D0%253A1" allowfullscreen></iframe><br>
 ### Mockups
 
 [Class Page Mockup](https://www.figma.com/file/y03PO0lI9B9GNm6CiqANkA/Milestone-3-Class-Page?node-id=0%3A1)<br>
