@@ -7,6 +7,8 @@ Haadis Rahman<br/>
 Raleigh Dial<br/>
 Charan Ramachandran
 
+[Milestone 3 Video](https://youtu.be/WU8MrouQVDg)
+
 ### User Experience Requirements
 #### User Stories
 * <b>As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.</b>
