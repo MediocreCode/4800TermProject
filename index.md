@@ -51,6 +51,8 @@ Swyng has been looking into the effects that using many external systems for ass
 [Milestone 2](./milestone2)
 <br/>
 [Milestone 3](./milestone3)
+<br/>
+[Milestone 4](./milestone4)
 
 <!-- Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
