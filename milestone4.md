@@ -1,13 +1,23 @@
 ---
 layout: post
-title: Milestone 2
+title: Milestone 4
 ---
 
 Haadis Rahman<br/>
 Raleigh Dial<br/>
 Charan Ramachandran
 
-### Problem Definition
+### High-Fidelity Prototype
+
+#### Relevant User Stories
+
+### Testing Protocol
+
+#### Protocol
+
+#### Procedure
+
+### Final Summary Video
 
 
 
