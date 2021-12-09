@@ -13,14 +13,27 @@ Charan Ramachandran
 
 ### Testing Protocol
 
-Our research question is as follows: Are students and instructors able to be more productive using our system Swyng rather than the past systems they have grown accustom to?
+Our research question is as follows: Are students and instructors more productive, efficient, and satisfied when using one umbrella system over the multiple past systems they have grown accustomed to?
 
 #### Protocol
 
-The practical way we would plan about conducting this research uses a couple of methodologies comprised of surveys and interviews.
-We could use surveys to gage user feedback from statistical view of our total sample. Judging feedback from our users such as numerical values of overall enjoyment, responsiveness, and difficulty to learn. This could be used both on instructor and student users, but our sample size of instructors would most likely be fairly small.
+The practical way we would plan conducting this research uses a few of methodologies comprised of surveys, interviews, and an experiment.
+We would use surveys to gauge user feedback from a statistical view of our total sample. Judging feedback from our users such as numerical values of overall enjoyment, responsiveness, and difficulty to learn. This could be used both on instructor and student users, but our sample size of instructors would most likely be disproportionally small compared to the sample size of our students.
+Our current list of information we would gather from surveys is as follows:
+Qualitative:
+* Enjoyment
+* Responsiveness
+* Difficulty to learn the new system
 
-This is where our other methodology of using interviews would come into play. Being able to go in-depth with the instructor users using the system and gage how they are feeling about usability as well as note what there feedback from students is like as far as their expressing discontent and confusing leading to missed assignments. We could also interview a random handful of students to get a more clear picture of how our features like calender and grade calculator have help or hindered their ability to maintain ease of use of the system.
+Quantitative:
+* Number of missed assignments
+* Average class grade compared to previous classes taught outside of Swyng.
+
+
+This is where our other methodology of using interviews would come into play. Being able to go in-depth with the instructor users using the system and gage how they are feeling about usability as well as note what there feedback from students is like as far as their expressing discontent and confusing leading to missed assignments. We could also interview a random handful of students to get a more clear picture of how our features like calendar and grade calculator have help or hindered their ability to maintain ease of use of the system.
+
+Finally, we would conduct an experiment using a control set of students and instructors going through classes using different systems that they do currently and a treatment set of students and instructors who have all their classes accessed and taught through Swyng. In the end we would compare these two groups based on the Quantitative metrics previously mentioned for the surveys. This would give us firm insight on just what a semester under an umbrella system would look like for our users.
+
 #### Procedure
 
 ### Final Summary Video
