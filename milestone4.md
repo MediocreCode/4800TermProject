@@ -17,7 +17,7 @@ Our research question is as follows: Are students and instructors able to be mor
 
 #### Protocol
 
-The praticle way we would plan about conducting this research uses a couple of methodologies comprised of surveys and interviews.
+The practical way we would plan about conducting this research uses a couple of methodologies comprised of surveys and interviews.
 We could use surveys to gage user feedback from statistical view of our total sample. Judging feedback from our users such as numerical values of overall enjoyment, responsiveness, and difficulty to learn. This could be used both on instructor and student users, but our sample size of instructors would most likely be fairly small.
 
 This is where our other methodology of using interviews would come into play. Being able to go in-depth with the instructor users using the system and gage how they are feeling about usability as well as note what there feedback from students is like as far as their expressing discontent and confusing leading to missed assignments. We could also interview a random handful of students to get a more clear picture of how our features like calender and grade calculator have help or hindered their ability to maintain ease of use of the system.
