@@ -20,6 +20,7 @@ Our research question is as follows: Are students and instructors more productiv
 The practical way we would plan conducting this research uses a few of methodologies comprised of surveys, interviews, and an experiment.
 We would use surveys to gauge user feedback from a statistical view of our total sample. Judging feedback from our users such as numerical values of overall enjoyment, responsiveness, and difficulty to learn. This could be used both on instructor and student users, but our sample size of instructors would most likely be disproportionally small compared to the sample size of our students.
 Our current list of information we would gather from surveys is as follows:
+
 Qualitative:
 * Enjoyment
 * Responsiveness
