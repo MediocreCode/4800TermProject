@@ -13,7 +13,7 @@ Charan Ramachandran
 
 #### Relevant User Stories
 
-The following are our relevant user stories from [Milestone 3](./milestone3.md)
+The following are our relevant user stories from [Milestone 3](./milestone3)
 
 * <b>As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.</b>
 * <b>As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.</b>
