@@ -9,6 +9,8 @@ Charan Ramachandran
 
 ### High-Fidelity Prototype
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjtKxQIFpVyZL2S7Cr2uwaw%2FMilestone-4%3Fnode-id%3D5%253A3%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A3%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
 #### Relevant User Stories
 
 ### Testing Protocol
