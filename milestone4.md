@@ -13,6 +13,13 @@ Charan Ramachandran
 
 #### Relevant User Stories
 
+The following are our relevant user stories from [Milestone 3](./milestone3.md)
+
+* <b>As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.</b>
+* <b>As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.</b>
+* <b>As a student, I want to be able to view all my grades in one platform, so that I can keep track of my academics without having to access numerous platforms for each class.</b>
+* <b>As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.</b>
+
 ### Testing Protocol
 
 Our research question is as follows: Are students and instructors more productive, efficient, and satisfied when using one umbrella system over the multiple past systems they have grown accustomed to?
