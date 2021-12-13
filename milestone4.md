@@ -18,11 +18,11 @@ The following are our relevant user stories from [Milestone 3](./milestone3)
 * <b>As a student, I would like to have a single location where I can access all my assignments for classes so that I can have a more organized educational experience.</b>
 
 Substories:
-* As a student, I would like to easily access assignments.
-<br/>Here we used a homepage system system as a simple hub to navigate to different classes with varying information already presented there. Therefore, assignments are 1 click away from the homepage making them very accessible. In doing this we can give student users a more organized experience that is hoped to reduce student confusion and let them maintain focus on managing their assignments.
+* As a student, I would like to easily access assignments.<br/>
+Here we used a homepage system system as a simple hub to navigate to different classes with varying information already presented there. Therefore, assignments are 1 click away from the homepage making them very accessible. In doing this we can give student users a more organized experience that is hoped to reduce student confusion and let them maintain focus on managing their assignments.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dukeiyus3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* As a student, I would like to access my class grades from a class homepage.
-<br/>This feature is also done to help student users have a more organized environment. They would have easy access to view their grades from a class page that would help them check up on past assignment as well as see new assignments and be able to understand where they need to improve.
+* As a student, I would like to access my class grades from a class homepage.<br/>
+This feature is also done to help student users have a more organized environment. They would have easy access to view their grades from a class page that would help them check up on past assignment as well as see new assignments and be able to understand where they need to improve.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1_w3LMnllQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * <b>As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/daJHvYmtO_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
