@@ -22,10 +22,12 @@ Substories:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dukeiyus3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * As a student, I would like to access my class grades from a class homepage.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1_w3LMnllQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * <b>As an instructor, I would like to reduce confusion among students so that I may focus more on the lesson plan rather than reminding students where assignments are located and when they are due.</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/daJHvYmtO_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * <b>As a student, I want to be able to view all my grades in one platform, so that I can keep track of my academics without having to access numerous platforms for each class.</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0UTKS1Ltmf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * <b>As an instructor, I would like the ability to create quizzes and tests to my liking without having to deal with confusing interfaces and requirements.</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2g7DcSQq4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Testing Protocol
 
